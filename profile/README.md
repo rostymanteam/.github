@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rostyman.com/icon.png" alt="Rostyman" width="96" height="96" />
+  <img src="https://raw.githubusercontent.com/rostymanteam/.github/main/profile/icon.png" alt="Rostyman" width="96" height="96" />
 
   # Rostyman
 
