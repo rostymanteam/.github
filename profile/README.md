@@ -1,32 +1,39 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rostymanteam/.github/main/profile/icon.png" alt="Rostyman" width="96" height="96" />
+  <img src="https://raw.githubusercontent.com/rostymanteam/.github/main/profile/icon.png" alt="Rosty — the Rostyman flame" width="104" height="104" />
 
   # Rostyman
 
-  **Test your APIs, your UI, and your database — in one app.**
+  ### Meet **Rosty** 🔥 — the little flame that lives on *your* machine.
 
-  Local-first · AI-powered · Works offline · No account required
+  **One local-first app for testing your APIs, your UI, and your database.**
 
-  [⬇️ Download](https://rostyman.com/download) ·
-  [📦 Releases](https://github.com/amitsri/rostyman-releases/releases) ·
+  100% local · AI-powered · No account · No cloud
+
+  [⬇️ Download](https://rostyman.com/download/) ·
+  [📦 Releases](https://github.com/rostymanteam/rostyman/releases) ·
   [📖 Docs](https://docs.rostyman.com) ·
   [💬 Discord](https://discord.gg/xQvDTpAJ) ·
-  [🐦 X](https://x.com/rostymanteam)
+  [🐦 X](https://x.com/rostymanteam) ·
+  [▶️ YouTube](https://www.youtube.com/@rostymanteam)
 </div>
 
 ---
 
 ### What is Rostyman?
 
-Rostyman is a **local-first desktop API client** that closes the loop most developers
-juggle across three windows — your API client, your database GUI, and your browser:
+Most developers juggle three windows — an API client, a database GUI, and a browser for
+testing — all tied to someone else's cloud. **Rostyman replaces the stack with one desktop
+app that runs entirely on your machine.**
 
-- **API testing** across 8 protocols — HTTP, GraphQL, gRPC, WebSocket, Socket.IO, MQTT, SSE, and MCP
-- **Database client** — 8 drivers (PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, MongoDB, Redis, CockroachDB), ER diagrams, EXPLAIN visualizer, AI SQL
-- **Browser automation** *(beta)* — embedded Chromium test runner with visual regression, WCAG audits, and database-aware assertions
-- **Workflow editor**, **Scheduler**, **Mock Server**, **Runner & CLI**, **MCP server (~80 tools)**, **AI assistant** (BYO key or local Ollama)
+- 🌐 **API testing** across 8 protocols — HTTP, GraphQL, gRPC, WebSocket, Socket.IO, MQTT, SSE, and MCP
+- 🗄️ **Database client** — 8 drivers (PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, MongoDB, Redis, CockroachDB), ER diagrams, EXPLAIN visualizer, AI SQL
+- 🧪 **Browser automation** *(Beta)* — embedded Chromium test runner with visual regression, WCAG audits, and database-aware assertions
+- ⚙️ **Workflows**, **Scheduler**, **Mock Server**, **Runner & CLI**, **MCP server (86 tools)**, **AI assistant** (BYO key or local Ollama)
 
-Everything runs on your machine. Your data never leaves unless you explicitly want it to,
-and every core feature is **free, forever**.
+Everything runs on your machine. **No account, no cloud, no telemetry** — your data stays with
+you, and every core feature is **free, forever**.
 
-> Rostyman is **v1.0 and still growing** — honest about what works today and what's on the way.
+---
+
+> 🔥 **Rosty is warming up — Rostyman v1.0 is almost here.**
+> Follow along on [X](https://x.com/rostymanteam) and come hang at the [campfire on Discord](https://discord.gg/xQvDTpAJ) so you don't miss the drop.
